@@ -6,3 +6,5 @@ new line
 this is the line i added in branch dev/manish
 this is aother line to show git commands
 this is a change made by vivek
+Git store everything in it Database not by filename but by the hash value of it contents through SHA1,in this way it maintains integrity 
+this is a change by vishnu
